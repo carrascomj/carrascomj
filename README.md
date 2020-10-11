@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img align="left" height="195px" src="https://media.giphy.com/media/ZY1sdagqPOpbIKP5L5/giphy.gif" />
+  <img align="left" height="190px" src="https://media.giphy.com/media/ZY1sdagqPOpbIKP5L5/giphy.gif" />
 </p>
 <a href="https://github.com/carrascomj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=carrascomj&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrascomj&hide=jupyter+notebook,html&langs_count=6&layout=compact" />
 </a>
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrascomj&hide=jupyter+notebook,html&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Stats](https://github-readme-stats.vercel.app/api?username=carrascomj&show_icons=true)](https://github.com/carrascomj)
