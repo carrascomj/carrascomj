@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img align="left" height="190px" src="https://media.giphy.com/media/ZY1sdagqPOpbIKP5L5/giphy.gif" />
-</p>
+
 <a href="https://github.com/carrascomj">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrascomj&hide=jupyter+notebook,html&langs_count=6&layout=compact" />
 </a>
+<p>
+  <img align="left" height="180px" src="https://media.giphy.com/media/ZY1sdagqPOpbIKP5L5/giphy.gif" />
+</p>
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrascomj&hide=jupyter+notebook,html&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
